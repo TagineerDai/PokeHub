@@ -2,7 +2,7 @@
 From the official web of PokemonGo~  
 This is the first Pokemon in the [Pokedex](https://www.pokemon.com/us/pokedex/):    
 https://www.pokemon.com/us/pokedex/bulbasaur  
-![The web outline](Bulbasaur_web.png)
+![The web outline](https://github.com/TagineerDai/PokeHub/blob/master/bulbasaur_web.png)
 
 And we are going to crawl every name/picture/infomations/link_to_next_pokemon for all the 801 pokemons.
 
